@@ -1,0 +1,6 @@
+.cache
+result/
+.idea
+venv/
+.pytest_cache/
+.DS_Store
