@@ -1,6 +1,6 @@
 # CloudPayments Python Generate Cryptogram Library
 
-Генерация криптограммы для платежного сервиса [CloudPayments](https://cloudpayments.ru/)
+Generate CloudPayments cryptogram [CloudPayments](https://cloudpayments.ru/)
 
 You install it with:
 
