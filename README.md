@@ -2,11 +2,11 @@
 
 Генерация криптограммы для платежного сервиса [CloudPayments](https://cloudpayments.ru/)
 
-You install it with::
+You install it with:
 
     pip install generatecpcryptogram
 
-You can use it with::
+You can use it with:
 
     from generatecpcryptogram import generate_cloud_payments_cryptogram
 
